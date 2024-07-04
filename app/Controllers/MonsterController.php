@@ -82,9 +82,9 @@ class MonsterController
 
             {$line3}
         ", buttons: [
-            new Button('Спасибо ❤️'),
-            new Button('Поищи ещё раз!'),
-            new Button('Хватит'),
+            new Button('❤️ Спасибо'),
+            new Button('🔍 Поищи ещё раз!'),
+            new Button('🚫 Хватит'),
         ]);
     }
 }
